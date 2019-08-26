@@ -5,7 +5,7 @@ For those that prefer using Functions over Classes.
 ## Install
 
 ```
-npm i @joelnet/deconstruct
+npm i https://github.com/joelnet/deconstruct.git
 ```
 
 ## Usage
