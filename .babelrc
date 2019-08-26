@@ -1,0 +1,8 @@
+{
+  "env": {
+    "test": {
+      "sourceMaps": "inline",
+      "retainLines": true
+    }
+  }
+}
