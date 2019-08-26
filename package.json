@@ -5,11 +5,14 @@
   "main": "src/index.js",
   "author": "Joel Thoms",
   "license": "MIT",
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joelnet/deconstruct.git"
   },
-  "keywords": [],
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/joelnet/deconstruct/issues"
   },
